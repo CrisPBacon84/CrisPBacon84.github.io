@@ -13,11 +13,12 @@
   text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
 }
 #portfolio {
-  margin-bottom: 100px;
+  margin-bottom: 20px;
 }
 
 .portfolio-container {
-  margin-bottom: 60px;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
 }
 
 .card {
